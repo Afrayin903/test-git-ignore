@@ -6,5 +6,6 @@ public class Test {
         System.out.println("test git merge");
         System.out.println("Practice merge features");
         System.out.println("Merged");
+        System.out.println("Unsuccessful");
     }
 }
